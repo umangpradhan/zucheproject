@@ -1,0 +1,1092 @@
+
+<!DOCTYPE html>
+
+<html lang="en-US" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://zuchepharma.com/wp-content/themes/zuchepharma/css/bootstrap.css">
+<link rel="stylesheet" href="https://zuchepharma.com/wp-content/themes/zuchepharma/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://zuchepharma.com/wp-content/themes/zuchepharma/css/style.css">
+<link rel="stylesheet" href="https://zuchepharma.com/wp-content/themes/zuchepharma/css/owl.carousel.css">
+<link rel="stylesheet" href="https://zuchepharma.com/wp-content/themes/zuchepharma/css/owl.transitions.css">
+<link rel="stylesheet" href="https://zuchepharma.com/wp-content/themes/zuchepharma/css/flexslider.css">
+<script src="https://zuchepharma.com/wp-content/themes/zuchepharma/js/jquery.min.js"></script>
+<script src="https://zuchepharma.com/wp-content/themes/zuchepharma/js/owl.carousel.js"></script>
+<script>
+$(document).ready(function() {
+	var owl4 = $("#owl-demo4");
+	  owl4.owlCarousel({
+		itemsCustom : [
+		  [0, 1],
+		  [450, 1],
+		  [600, 2],
+		  [700, 2],
+		  [1000, 4],
+		  [1200, 4],
+		  [1400, 4],
+		  [1600, 4]
+		],
+		autoPlay : true,
+		navigation : true
+	});
+});
+</script>
+<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Medical Devices &#8211; Zuche Pharmaceuticals</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Zuche Pharmaceuticals &raquo; Feed" href="https://zuchepharma.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Zuche Pharmaceuticals &raquo; Comments Feed" href="https://zuchepharma.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/zuchepharma.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.14"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])?!1:!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://zuchepharma.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='banner-list-block-css'  href='https://zuchepharma.com/wp-content/plugins/custom-banners/blocks/banner-list/style.css?ver=1560358643' type='text/css' media='all' />
+<link rel='stylesheet' id='rotating-banner-block-css'  href='https://zuchepharma.com/wp-content/plugins/custom-banners/blocks/rotating-banner/style.css?ver=1560358643' type='text/css' media='all' />
+<link rel='stylesheet' id='single-banner-block-css'  href='https://zuchepharma.com/wp-content/plugins/custom-banners/blocks/single-banner/style.css?ver=1560358643' type='text/css' media='all' />
+<link rel='stylesheet' id='advpsStyleSheet-css'  href='https://zuchepharma.com/wp-content/plugins/advanced-post-slider/advps-style.css?ver=5.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://zuchepharma.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-banners-css-css'  href='https://zuchepharma.com/wp-content/plugins/custom-banners/assets/css/wp-banners.css?ver=5.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='hamburger.css-css'  href='https://zuchepharma.com/wp-content/plugins/wp-responsive-menu/css/wpr-hamburger.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wprmenu.css-css'  href='https://zuchepharma.com/wp-content/plugins/wp-responsive-menu/css/wprmenu.css?ver=1.0' type='text/css' media='all' />
+<style id='wprmenu.css-inline-css' type='text/css'>
+@media only screen and ( max-width: 991px ) {html body div.wprm-wrapper {
+				overflow: scroll;
+			}
+				#mg-wprm-wrap ul li {
+					border-top: solid 1px rgb(0,174,239);
+					border-bottom: solid 1px rgb(0,174,239);
+				}
+				
+				#wprmenu_bar {
+					background-color: #00aeef;
+				}
+			
+				html body div#mg-wprm-wrap .wpr_submit .icon.icon-search {
+					color: ;
+				}
+				#wprmenu_bar .menu_title, #wprmenu_bar .wprmenu_icon_menu {
+					color: #F2F2F2;
+				}
+				#wprmenu_bar .menu_title {
+					font-size: 20px;
+					font-weight: ;
+				}
+				#mg-wprm-wrap li.menu-item a {
+					font-size: px;
+					text-transform: ;
+					font-weight: ;
+				}
+				#mg-wprm-wrap li.menu-item-has-children ul.sub-menu a {
+					font-size: px;
+					text-transform: ;
+					font-weight: ;
+				}
+				#mg-wprm-wrap li.current-menu-item > a {
+					background: ;
+				}
+				#mg-wprm-wrap li.current-menu-item > a,
+				#mg-wprm-wrap li.current-menu-item span.wprmenu_icon{
+					color:  !important;
+				}
+				#mg-wprm-wrap {
+					background-color: #59cadc;
+				}
+				.cbp-spmenu-push-toright {
+					left: 80% ;
+				}
+				.cbp-spmenu-push-toright .mm-slideout {
+					left:80% ;
+				}
+				.cbp-spmenu-push-toleft {
+					left: -80% ;
+				}
+				#mg-wprm-wrap.cbp-spmenu-right,
+				#mg-wprm-wrap.cbp-spmenu-left,
+				#mg-wprm-wrap.cbp-spmenu-right.custom,
+				#mg-wprm-wrap.cbp-spmenu-left.custom,
+				.cbp-spmenu-vertical {
+					width: 80%;
+					max-width: px;
+				}
+				#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item a,
+				div#mg-wprm-wrap ul li span.wprmenu_icon {
+					color: #ffffff !important;
+				}
+				#mg-wprm-wrap ul#wprmenu_menu_ul li.menu-item a:hover {
+					background: ;
+					color: #d32b2f !important;
+				}
+				div#mg-wprm-wrap ul>li:hover>span.wprmenu_icon {
+					color: #d32b2f !important;
+				}
+				.wprmenu_bar .hamburger-inner, .wprmenu_bar .hamburger-inner::before, .wprmenu_bar .hamburger-inner::after {
+					background: #FFFFFF;
+				}
+				.wprmenu_bar .hamburger:hover .hamburger-inner, .wprmenu_bar .hamburger:hover .hamburger-inner::before,
+			 .wprmenu_bar .hamburger:hover .hamburger-inner::after {
+				background: ;
+				}
+			
+				#wprmenu_menu.left {
+					width:80%;
+					left: -80%;
+					right: auto;
+				}
+				#wprmenu_menu.right {
+					width:80%;
+					right: -80%;
+					left: auto;
+				}
+			
+					.wprmenu_bar .hamburger {
+						float: right;
+					}
+					.wprmenu_bar #custom_menu_icon.hamburger {
+						top: px;
+						right: px;
+						float: right;
+						background-color: ;
+					}
+				.custMenu #custom_menu_icon {
+				display: block;
+			}html { padding-top: 42px !important; }#wprmenu_bar,#mg-wprm-wrap { display: block; }
+			div#wpadminbar { position: fixed; }}
+</style>
+<link rel='stylesheet' id='wpr_icons-css'  href='https://zuchepharma.com/wp-content/plugins/wp-responsive-menu/inc/icons/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://zuchepharma.com/wp-content/themes/zuchepharma/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-style-css'  href='https://zuchepharma.com/wp-content/themes/zuchepharma/style.css?ver=5.2.14' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='https://zuchepharma.com/wp-content/themes/zuchepharma/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='https://zuchepharma.com/wp-content/themes/zuchepharma/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='https://zuchepharma.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.2' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='js_composer_front-css'  href='https://zuchepharma.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.2' type='text/css' media='all' />
+<style id='js_composer_front-inline-css' type='text/css'>
+.medicalcont{text-align:center;}
+.vc_custom_1492414283702{padding-top: 60px !important;}
+</style>
+<script>if (document.location.protocol != "https:") {document.location = document.URL.replace(/^http:/i, "https:");}</script><script type='text/javascript' src='https://zuchepharma.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://zuchepharma.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://zuchepharma.com/wp-content/plugins/advanced-post-slider/js/advps.frnt.script.js?ver=5.2.14'></script>
+<script type='text/javascript' src='https://zuchepharma.com/wp-content/plugins/advanced-post-slider/bxslider/jquery.bxslider.min.js?ver=5.2.14'></script>
+<script type='text/javascript' src='https://zuchepharma.com/wp-content/plugins/wp-responsive-menu/js/modernizr.custom.js?ver=1.0'></script>
+<script type='text/javascript' src='https://zuchepharma.com/wp-content/plugins/wp-responsive-menu/js/jquery.touchSwipe.min.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wprmenu = {"zooming":"yes","from_width":"991","push_width":"","menu_width":"80","parent_click":"","swipe":"no","enable_overlay":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://zuchepharma.com/wp-content/plugins/wp-responsive-menu/js/wprmenu.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='https://zuchepharma.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://zuchepharma.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://zuchepharma.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.14" />
+<link rel="canonical" href="https://zuchepharma.com/product-portfolio/medical-devices/" />
+<link rel='shortlink' href='https://zuchepharma.com/?p=879' />
+<link rel="alternate" type="application/json+oembed" href="https://zuchepharma.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fzuchepharma.com%2Fproduct-portfolio%2Fmedical-devices%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://zuchepharma.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fzuchepharma.com%2Fproduct-portfolio%2Fmedical-devices%2F&#038;format=xml" />
+<style type="text/css" media="screen"></style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<link rel="icon" href="https://zuchepharma.com/wp-content/uploads/2017/05/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://zuchepharma.com/wp-content/uploads/2017/05/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://zuchepharma.com/wp-content/uploads/2017/05/favicon.png" />
+<meta name="msapplication-TileImage" content="https://zuchepharma.com/wp-content/uploads/2017/05/favicon.png" />
+<noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122079940-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122079940-1');
+</script>
+
+<!--Start of Zendesk Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){
+z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+$.src='https://v2.zopim.com/?4xbvTvuUdpuX9PTNi9KRaeFts7Mxfe8D';z.t=+new Date;$.
+type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+</script>
+<!--End of Zendesk Chat Script-->
+</head>
+<body data-rsssl=1 class="page-template page-template-template-medical-devices page-template-template-medical-devices-php page page-id-879 page-child parent-pageid-849 wp-custom-logo wpb-js-composer js-comp-ver-6.0.2 vc_responsive">
+
+<header>
+	<!-- Modal -->
+	<div class="modal-backdrop.in">
+		<div class="modal fade" id="myModal" role="dialog">
+			<div class="modal-dialog">
+			  <!-- Modal content-->
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+						<h4 class="modal-title">Enquiry Form</h4>
+					</div>
+					<div class="modal-body">
+						<div role="form" class="wpcf7" id="wpcf7-f930-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/product-portfolio/medical-devices/#wpcf7-f930-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="930" />
+<input type="hidden" name="_wpcf7_version" value="5.1.3" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f930-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+</div>
+<p><label> Customer Name:<br />
+    <span class="wpcf7-form-control-wrap customer-name"><input type="text" name="customer-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required send-enquiry" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Contact Number:<br />
+    <span class="wpcf7-form-control-wrap your-Contact"><input type="tel" name="your-Contact" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel send-enquiry" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Email:<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email send-enquiry" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Product Name:<br />
+    <span class="wpcf7-form-control-wrap product-name"><input type="text" name="product-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required send-enquiry" id="product-field" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Message:<br />
+    <span class="wpcf7-form-control-wrap message"><textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required send-msg" aria-required="true" aria-invalid="false"></textarea></span> </label><br />
+<input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit submit-btn" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="modal-backdrop.in">
+		<div class="modal fade" id="myModal1" role="dialog">
+			<div class="modal-dialog">
+				<!-- Modal content-->
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+						<h4 class="modal-title">Enquiry Form</h4>
+					</div>
+					<div class="modal-body">
+						<div role="form" class="wpcf7" id="wpcf7-f930-o2" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/product-portfolio/medical-devices/#wpcf7-f930-o2" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="930" />
+<input type="hidden" name="_wpcf7_version" value="5.1.3" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f930-o2" />
+<input type="hidden" name="_wpcf7_container_post" value="0" />
+</div>
+<p><label> Customer Name:<br />
+    <span class="wpcf7-form-control-wrap customer-name"><input type="text" name="customer-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required send-enquiry" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Contact Number:<br />
+    <span class="wpcf7-form-control-wrap your-Contact"><input type="tel" name="your-Contact" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel send-enquiry" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Email:<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email send-enquiry" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Product Name:<br />
+    <span class="wpcf7-form-control-wrap product-name"><input type="text" name="product-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required send-enquiry" id="product-field" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Message:<br />
+    <span class="wpcf7-form-control-wrap message"><textarea name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required send-msg" aria-required="true" aria-invalid="false"></textarea></span> </label><br />
+<input type="submit" value="Submit" class="wpcf7-form-control wpcf7-submit submit-btn" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-2 col-md-2">
+				<div class="logo_set">
+					<a href="https://zuchepharma.com/" class="custom-logo-link" rel="home"><img width="206" height="60" src="https://zuchepharma.com/wp-content/uploads/2017/05/logos.png" class="custom-logo" alt="Zuche Pharmaceuticals" /></a>				</div>
+			</div>
+			<div class="col-sm-10 col-md-10">
+				<div class="single_row_content">
+					<ul>
+						<li class="enquirybutn"><a href="#myModal" data-toggle="modal"> <i class="fa fa-question" aria-hidden="true"></i> &nbsp; Send Enquiry</a></li>
+						<!-- <li><a href="#"><img src="img/download_icon.png"></a></li> -->
+						<li><a href="https://zuchepharma.com/download-catalog/"><i class="fa fa-arrow-circle-o-down"></i> &nbsp; Download Catalog</a></li>
+						<li><a href="https://zuchepharma.com/celebration-zuche//"><i class="fa fa-play-circle-o" aria-hidden="true"></i> &nbsp; Media & Gallery</a></li>
+						<li>
+							<div id="google_translate_element"></div>
+							<script type="text/javascript">
+								function googleTranslateElementInit() {
+								  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+								}
+							</script>
+							<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+							</script>
+						</li>
+						<li>
+							<div class="dropdown">
+									<a class="" type="button" data-toggle="dropdown"><img src="https://zuchepharma.com/wp-content/themes/zuchepharma/img/search_icon.png"></a>	
+								<div class="dropdown-menu">
+									 <form role="search" method="get" class="searchform group" action="https://zuchepharma.com/">
+										<label>
+											<input type="search" class="search-field" placeholder="Search" value="" name="s" title="Search for:" />
+										</label>									
+									</form>
+								</div>
+							</div>
+						</li>						
+					</ul>
+				</div>
+				<div>
+					<div class="nav_custom">
+						<div class="menu-main-menu-container"><ul id="topnav" class="sf-menu"><li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-33"><a href="https://zuchepharma.com/">Home</a></li>
+<li id="menu-item-596" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-596"><a>About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-601" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-601"><a href="https://zuchepharma.com/about-us/#About">About Zuche</a></li>
+	<li id="menu-item-524" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-524"><a href="https://zuchepharma.com/about-us/#vission">Mission &#038;  Vision</a></li>
+	<li id="menu-item-594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-594"><a href="https://zuchepharma.com/about-us/#director">Board of Directors</a></li>
+	<li id="menu-item-525" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-525"><a href="https://zuchepharma.com/about-us/#team">Business Model</a></li>
+</ul>
+</li>
+<li id="menu-item-1199" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1199"><a href="https://zuchepharma.com/product-portfolio/pharmaceuticals/">Product Portfolio</a>
+<ul class="sub-menu">
+	<li id="menu-item-922" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-922"><a href="https://zuchepharma.com/product-portfolio/pharmaceuticals/">Pharmaceuticals</a></li>
+	<li id="menu-item-888" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-879 current_page_item menu-item-888"><a href="https://zuchepharma.com/product-portfolio/medical-devices/" aria-current="page">Medical Devices</a></li>
+	<li id="menu-item-920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-920"><a href="https://zuchepharma.com/product-portfolio/nutraceuticals/">Nutraceuticals</a></li>
+	<li id="menu-item-921" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-921"><a href="https://zuchepharma.com/product-portfolio/herbal-products/">Herbal Products</a></li>
+	<li id="menu-item-919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-919"><a href="https://zuchepharma.com/product-portfolio/veterinary-products/">Veterinary Products</a></li>
+</ul>
+</li>
+<li id="menu-item-661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-661"><a>Quality</a>
+<ul class="sub-menu">
+	<li id="menu-item-666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-666"><a href="https://zuchepharma.com/quality-policy/">Quality Policy</a></li>
+	<li id="menu-item-940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-940"><a href="https://zuchepharma.com/quality-assurance/">Quality Assurance</a></li>
+	<li id="menu-item-995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-995"><a href="#quality-control">Quality Control</a></li>
+	<li id="menu-item-939" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-939"><a href="https://zuchepharma.com/certificates-awards/">Certificates &#038; Awards</a></li>
+</ul>
+</li>
+<li id="menu-item-662" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-662"><a>Career</a>
+<ul class="sub-menu">
+	<li id="menu-item-546" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-546"><a href="https://zuchepharma.com/new/career/#Grow2">Growing  with Zuche</a></li>
+	<li id="menu-item-547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-547"><a href="https://zuchepharma.com/new/career/#culture">Culture</a></li>
+	<li id="menu-item-608" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-608"><a href="https://zuchepharma.com/new/career/#value">Value &#038; Ethics</a></li>
+	<li id="menu-item-682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="https://zuchepharma.com/openings/">Openings</a></li>
+	<li id="menu-item-722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-722"><a href="https://zuchepharma.com/join-our-team/">Join Our Team</a></li>
+</ul>
+</li>
+<li id="menu-item-742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-742"><a href="https://zuchepharma.com/worldwide/">WorldWide</a></li>
+<li id="menu-item-720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-720"><a href="https://zuchepharma.com/blog/">Blog</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="https://zuchepharma.com/contact-us/">Contact Us</a></li>
+</ul></div>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header><!-- .site-header -->
+</div><!-- .sidebar -->
+<div id="content" class="site-content">
+
+<div class="wrapper head">
+    <div class="container-fluid" style="background:url('https://zuchepharma.com/wp-content/uploads/2017/04/medical.jpg') top no-repeat;height: 350px; background-size: cover;">
+        <div class="container">		
+            <div class="innerr_heading">
+            	Medical Devices
+            </div>   
+        </div> 	 
+    </div>
+
+
+ <div class="breadcrumbs" typeof="BreadcrumbList" vocab="https://schema.org/">
+<div class="container">
+    <!-- Breadcrumb NavXT 6.3.0 -->
+<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Zuche Pharmaceuticals." href="https://zuchepharma.com" class="home"><span property="name">Home</span></a><meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Product Portfolio." href="https://zuchepharma.com/product-portfolio/" class="post post-page"><span property="name">Product Portfolio</span></a><meta property="position" content="2"></span> &gt; <span property="itemListElement" typeof="ListItem"><span property="name">Medical Devices</span><meta property="position" content="3"></span></div>
+</div>	
+
+	<div class="MedicalDevices">
+		<div class="container">
+			<div class="row">
+				<div class="menu-medical-devices-container"><ul id="menu-medical-devices" class="menu"><li id="menu-item-890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-890"><a href="https://zuchepharma.com/product-portfolio/pharmaceuticals/">Pharmaceuticals</a></li>
+<li id="menu-item-889" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-879 current_page_item menu-item-889"><a href="https://zuchepharma.com/product-portfolio/medical-devices/" aria-current="page">Medical Devices</a></li>
+<li id="menu-item-915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-915"><a href="https://zuchepharma.com/product-portfolio/nutraceuticals/">Nutraceuticals</a></li>
+<li id="menu-item-896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-896"><a href="https://zuchepharma.com/product-portfolio/herbal-products/">Herbal Products</a></li>
+<li id="menu-item-902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-902"><a href="https://zuchepharma.com/product-portfolio/veterinary-products/">Veterinary Products</a></li>
+</ul></div>			</div>
+		</div>
+	</div>
+    <div class="innerpage">
+        <div class="container">	
+        	<div class="vc_row wpb_row vc_row-fluid vc_custom_1492414283702"><div class="aboutcontent wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_text_column wpb_content_element  medicalcont" >
+		<div class="wpb_wrapper">
+			<p>We are the manufacturers &amp; exporters of Medical Devices. Our company is present and has active representation in Europe, Australia, New Zealand, South America, GCC (Bahrain, Saudi Arabia), South East Asia and Africa. All our medical devices are registered in European Union. We Offer Lubricating Eye Drops, Ear Wax Softener, Nasal Decongestant, Emollients for Dry Skin Condition.</p>
+
+		</div>
+	</div>
+</div></div></div></div>
+        
+            <div class="product-tab">
+            	<div class="panel-group" id="accordion">
+					                    
+                     <div class="panel panel-default">
+                      <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-creamsointments-and-gels">Creams,Ointments and Gels</a>
+                          
+                        </h4>
+                      </div>
+                      <div id="collapse-creamsointments-and-gels" class="panel-collapse collapse ">
+                      <div class="row">
+                                              <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/2336-2/"><img width="489" height="500" src="https://zuchepharma.com/wp-content/uploads/2020/01/paraffin-500x500.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="White soft paraffin 15% w/w &amp; liquid paraffin 6%w/w." srcset="https://zuchepharma.com/wp-content/uploads/2020/01/paraffin-500x500.jpg 489w, https://zuchepharma.com/wp-content/uploads/2020/01/paraffin-500x500-293x300.jpg 293w" sizes="(max-width: 489px) 100vw, 489px" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/2336-2/">White soft paraffin &#038; liquid paraffin</a></h5>
+<p>Strength:  White Soft Paraffin 15%w/w &#038; Liquid Paraffin 6% w/w<br />
+Pack Size: It is available in 15gm and 30gm pack size.</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/white-soft-paraffin-13-2-ww-and-light-liquid-paraffin-10-2-ww-cream/"><img width="500" height="429" src="https://zuchepharma.com/wp-content/uploads/2017/07/IMG_20171103_112455.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://zuchepharma.com/wp-content/uploads/2017/07/IMG_20171103_112455.jpg 500w, https://zuchepharma.com/wp-content/uploads/2017/07/IMG_20171103_112455-300x257.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/white-soft-paraffin-13-2-ww-and-light-liquid-paraffin-10-2-ww-cream/">White Soft Paraffin &#038; Liquid Paraffin cream.</a></h5>
+<p><strong>Strength:</strong> WSP 13.2% w/v &#038; LLD 10.2% w/v<br />
+<strong>Pack size:</strong> It is available in a jar of 250 g and 500g or as per buyer&#8217;s specification.</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/menthol-1-in-aqueous-cream-sls-free/"><img width="500" height="500" src="https://zuchepharma.com/wp-content/uploads/2017/07/Menthol-1-BG-Copy-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://zuchepharma.com/wp-content/uploads/2017/07/Menthol-1-BG-Copy-2.jpg 500w, https://zuchepharma.com/wp-content/uploads/2017/07/Menthol-1-BG-Copy-2-150x150.jpg 150w, https://zuchepharma.com/wp-content/uploads/2017/07/Menthol-1-BG-Copy-2-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/menthol-1-in-aqueous-cream-sls-free/">Menthol 1% In Aqueous Cream, SLS Free</a></h5>
+<p><strong>Strength:</strong> aqueous cream with 1% menthol<br />
+<strong>Pack size:</strong> Menthol 1% in Aqueous Cream is available in a jar of 250 g and 500g or as per buyer&#8217;s specification.</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/aqueous-cream-bp-sls-free/"><img width="500" height="500" src="https://zuchepharma.com/wp-content/uploads/2017/07/Aqueous-cream-bg-Copy-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://zuchepharma.com/wp-content/uploads/2017/07/Aqueous-cream-bg-Copy-2.jpg 500w, https://zuchepharma.com/wp-content/uploads/2017/07/Aqueous-cream-bg-Copy-2-150x150.jpg 150w, https://zuchepharma.com/wp-content/uploads/2017/07/Aqueous-cream-bg-Copy-2-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/aqueous-cream-bp-sls-free/">Aqueous Cream BP SLS Free</a></h5>
+<p><strong>Strength:</strong> white soft paraffin with light liquid paraffin<br />
+<strong>Pack size:</strong> Aqueous cream is available in a jar of 250 g and 500g or as per buyer&#8217;s specification.</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/white-soft-paraffin-with-liquid-paraffin-b-p/"><img width="435" height="510" src="https://zuchepharma.com/wp-content/uploads/2017/07/white-paraffin-liquid-paraffin-435x510.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/white-soft-paraffin-with-liquid-paraffin-b-p/">White soft paraffin with liquid paraffin B.P.</a></h5>
+<p><strong>Strength:</strong> WSP 50% w/w &#038; LLP 50% w/v<br />
+<strong>Pack size:</strong> White soft Paraffin with Liquid Paraffin B.P. is available in a jar of 250 g and 500g &#8230;</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/white-soft-paraffin/"><img width="825" height="510" src="https://zuchepharma.com/wp-content/uploads/2017/04/WSP-New-825x510.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/white-soft-paraffin/">White Soft Paraffin</a></h5>
+<p><strong>Strength:</strong> Petroleum Jelly, Moisturizer<br />
+<strong>Pack size:</strong> White soft Paraffin is available in a jar of 250 g and 500g or as per buyer&#8217;s specification.</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        </div>
+                      </div>
+                    </div>
+                                        
+                     <div class="panel panel-default">
+                      <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-eyeear-nasal-preparations">Eye,ear &amp; nasal Preparations</a>
+                          
+                        </h4>
+                      </div>
+                      <div id="collapse-eyeear-nasal-preparations" class="panel-collapse collapse ">
+                      <div class="row">
+                                              <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/carmellose-lubricating-eye-drops/"><img width="500" height="375" src="https://zuchepharma.com/wp-content/uploads/2020/01/carmellose-lubricating-eye-drop-500x500.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://zuchepharma.com/wp-content/uploads/2020/01/carmellose-lubricating-eye-drop-500x500.jpg 500w, https://zuchepharma.com/wp-content/uploads/2020/01/carmellose-lubricating-eye-drop-500x500-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/carmellose-lubricating-eye-drops/">Carmellose Lubricating Eye Drops</a></h5>
+<p>Strength: Carboxymethyl Cellulose Sodium 0.5% w/v<br />
+Pack size: Carmellose Eye Drops are available in plastic dropper bottles in 10 ml &#038;15 ml fill volume.</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/polythylene-glycol-400-and-propylene-glycol-opthalmic-solution-eye-drops/"><img width="362" height="500" src="https://zuchepharma.com/wp-content/uploads/2017/07/polyethylene-glycol-400-and-propylene-glycol-opthalmic-soluti-500x500.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://zuchepharma.com/wp-content/uploads/2017/07/polyethylene-glycol-400-and-propylene-glycol-opthalmic-soluti-500x500.jpg 362w, https://zuchepharma.com/wp-content/uploads/2017/07/polyethylene-glycol-400-and-propylene-glycol-opthalmic-soluti-500x500-217x300.jpg 217w" sizes="(max-width: 362px) 100vw, 362px" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/polythylene-glycol-400-and-propylene-glycol-opthalmic-solution-eye-drops/">Polythylene Glycol 400 &#038; Propylene Glycol Eye Drops</a></h5>
+<p><strong>Strength:</strong> PEG 0.4% w/v, Propylene Glycol 0.3% w/v<br />
+<strong>Pack size:</strong> Polythylene Glycol &#038; Propylene Glycol Opthalmic Solution Eye Drops is available in 10ml&#8230;</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/normal-saline-nasal-spray/"><img width="243" height="510" src="https://zuchepharma.com/wp-content/uploads/2017/07/Normal-saline-nasal-spray-243x510.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/normal-saline-nasal-spray/">Normal Saline Nasal Spray</a></h5>
+<p><strong>Strength:</strong> Sodium Chloride BP 0.9% w/v, Benzalkonium Chloride Solution BP 0.02% v/v<br />
+<strong>Pack size:</strong> Normal Saline Nasal Spray is available in 10 ml, 15 ml and 30 ml or &#8230;.</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/hypromellose-eye-drops-bp-0-3/"><img width="825" height="510" src="https://zuchepharma.com/wp-content/uploads/2017/07/Hypromellose-Eye-Drops-2-825x510.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/hypromellose-eye-drops-bp-0-3/">Hypromellose Eye Drops BP 0.3%</a></h5>
+<p><strong>Strength:</strong> Hypromellose  0.3% w/v<br />
+<strong>Pack size:</strong> Hypromellose Eye Drops is available in 10 ml, 15 ml or as per buyer&#8217;s specification</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/sodium-hyaluronate-eye-drops/"><img width="500" height="500" src="https://zuchepharma.com/wp-content/uploads/2017/07/Sodium-Hyaluronate-Eye-Drops-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://zuchepharma.com/wp-content/uploads/2017/07/Sodium-Hyaluronate-Eye-Drops-2.jpg 500w, https://zuchepharma.com/wp-content/uploads/2017/07/Sodium-Hyaluronate-Eye-Drops-2-150x150.jpg 150w, https://zuchepharma.com/wp-content/uploads/2017/07/Sodium-Hyaluronate-Eye-Drops-2-300x300.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/sodium-hyaluronate-eye-drops/">Sodium Hyaluronate Eye Drops</a></h5>
+<p><strong>Strength:</strong> Sodium Hyaluronate 0.1% w/v &#038; 0.2% w/v<br />
+<strong>Pack size:</strong>Sodium Hyaluronate Eye Drops is available in 10 ml, 15 ml or as per buyer&#8217;s specification.</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/polyvinyl-alcohol-povidone-eye-drops/"><img width="271" height="500" src="https://zuchepharma.com/wp-content/uploads/2017/07/polyvinyl-alcohol-povidone-eye-drops-500x500.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://zuchepharma.com/wp-content/uploads/2017/07/polyvinyl-alcohol-povidone-eye-drops-500x500.jpg 271w, https://zuchepharma.com/wp-content/uploads/2017/07/polyvinyl-alcohol-povidone-eye-drops-500x500-163x300.jpg 163w" sizes="(max-width: 271px) 100vw, 271px" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/polyvinyl-alcohol-povidone-eye-drops/">Polyvinyl Alcohol &#8211; Povidone Eye Drops</a></h5>
+<p><strong>Strength:</strong> Polyvinyl Alcohol 1.4% w/v, Povidone 0.6% w/v<br />
+<strong>Pack size:</strong> Polyvinyl Alcohol Povidone Eye Drops is available in 10 ml, 15 ml or as per buyer&#8217;s specification</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/carboxymethyl-cellulose-sodium-eye-drops-bp/"><img width="825" height="510" src="https://zuchepharma.com/wp-content/uploads/2017/07/Carmellose-Eye-Drops-1-2-825x510.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/carboxymethyl-cellulose-sodium-eye-drops-bp/">Carboxymethyl Cellulose Sodium Eye Drops BP</a></h5>
+<p><strong>Strength:</strong> Carboxymethyl Cellulose Sodium &#8211; 0.5% w/v &#038; 1% w/v<br />
+<strong>Pack size:</strong> Carboxymethyl Cellulose Sodium Eye Drops is available in 10 ml, 15 ml or as per buyer&#8217;s specification</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/normal-saline-nasal-drops/"><img width="462" height="510" src="https://zuchepharma.com/wp-content/uploads/2017/07/normal-saline-drops-462x510.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/normal-saline-nasal-drops/">Normal Saline Nasal Drops</a></h5>
+<p><strong>Strength:</strong> Sodium Chloride BP 0.9% w/v, Benzalkonium Chloride Solution BP 0.02% v/v<br />
+<strong>Pack size:</strong> Saline Nasal Drops is available in 10ml, 15ml or as per buyer&#8217;s&#8230;</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/olive-oil-ear-drops/"><img width="825" height="510" src="https://zuchepharma.com/wp-content/uploads/2017/07/olive-oil-ED-Group-825x510.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/olive-oil-ear-drops/">Olive oil Ear drops</a></h5>
+<p><strong>Strength:</strong> Extra Virgin olive Oil 100%<br />
+<strong>Pack size:</strong> Olive Oil Ear Drops is available in plastic dropper bottles in 10 ml fill volume or as per buyer&#8217;s specification.</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/sodium-bicarbonate-ear-drops-5-wv/"><img width="500" height="500" src="https://zuchepharma.com/wp-content/uploads/2017/02/Sodium-Bicarbonate-Ear-Drops-blue-pack.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://zuchepharma.com/wp-content/uploads/2017/02/Sodium-Bicarbonate-Ear-Drops-blue-pack.png 500w, https://zuchepharma.com/wp-content/uploads/2017/02/Sodium-Bicarbonate-Ear-Drops-blue-pack-150x150.png 150w, https://zuchepharma.com/wp-content/uploads/2017/02/Sodium-Bicarbonate-Ear-Drops-blue-pack-300x300.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/sodium-bicarbonate-ear-drops-5-wv/">Sodium Bicarbonate Ear Drops 5% w/v</a></h5>
+<p><strong>Strength:</strong> Ear wax softener, Ear wax remover<br />
+<strong>Pack size:</strong> Sodium Bicarbonate ear drops are available in plastic dropper bottles in 10 ml fill volume.</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        </div>
+                      </div>
+                    </div>
+                                        
+                     <div class="panel panel-default">
+                      <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-inhalation-solution">Inhalation solution</a>
+                          
+                        </h4>
+                      </div>
+                      <div id="collapse-inhalation-solution" class="panel-collapse collapse ">
+                      <div class="row">
+                                              <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/sterile-normal-saline-solution/"><img width="825" height="510" src="https://zuchepharma.com/wp-content/uploads/2017/04/NaCl-inhalation-soln-825x510.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/sterile-normal-saline-solution/">Sodium Chloride Inhalation Solution</a></h5>
+<p><strong>Strength:</strong> Sodium Chloride Inhalation Solution 0.9% W/V Ph.Eur<br />
+<strong>Pack size:</strong> 5 ml, 10 ml, 20 ml 30 ml Plastic ampoule</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        </div>
+                      </div>
+                    </div>
+                                        
+                     <div class="panel panel-default">
+                      <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-irrigation-solution">Irrigation solution</a>
+                          
+                        </h4>
+                      </div>
+                      <div id="collapse-irrigation-solution" class="panel-collapse collapse ">
+                      <div class="row">
+                                              <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/sodium-chloride-irrigation-solution-2/"><img width="690" height="480" src="https://zuchepharma.com/wp-content/uploads/2017/07/Sodium-Chloride-irrigation-Solution-2-1.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://zuchepharma.com/wp-content/uploads/2017/07/Sodium-Chloride-irrigation-Solution-2-1.jpg 690w, https://zuchepharma.com/wp-content/uploads/2017/07/Sodium-Chloride-irrigation-Solution-2-1-300x209.jpg 300w" sizes="(max-width: 690px) 100vw, 690px" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/sodium-chloride-irrigation-solution-2/">Sodium Chloride Irrigation Solution</a></h5>
+<p>Strength: Sodium Chloride Irrigation Solution 0.9% w/v<br />
+Pack Size: 5 ml, 10 ml, 20 ml 30 ml plastic ampoule or as per buyer&#8217;s specification.</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/sterile-normal-saline-solution-2/"><img width="825" height="510" src="https://zuchepharma.com/wp-content/uploads/2017/07/Sodium-Chloride-irrigation-Solution-3-825x510.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/sterile-normal-saline-solution-2/">Sterile Normal Saline Solution</a></h5>
+<p><strong>Strength:</strong> Sodium Chloride Irrigation Solution 0.9% w/v<br />
+<strong>Pack size:</strong> Sterile Normal Saline Solution is available in 5 ml, 10 ml, 20 ml 30 ml Plastic ampoule</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        </div>
+                      </div>
+                    </div>
+                                        
+                     <div class="panel panel-default">
+                      <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse-oral-hygine">Oral hygine</a>
+                          
+                        </h4>
+                      </div>
+                      <div id="collapse-oral-hygine" class="panel-collapse collapse ">
+                      <div class="row">
+                                              <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        <div class="panel-body">
+			<div class="row">
+			<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+                        	<div class="catpostthumbimg">
+                            	<a href="https://zuchepharma.com/medical_devices/chlorhexidine-mouthwash/"><img width="336" height="448" src="https://zuchepharma.com/wp-content/uploads/2017/04/chlorhexidine-mouthwash-blue-bg.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://zuchepharma.com/wp-content/uploads/2017/04/chlorhexidine-mouthwash-blue-bg.jpg 336w, https://zuchepharma.com/wp-content/uploads/2017/04/chlorhexidine-mouthwash-blue-bg-225x300.jpg 225w" sizes="(max-width: 336px) 100vw, 336px" /></a>
+                            </div>
+				</div>
+				<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+                            <div class="catpostthumbtitle">
+                            <h5><a href="https://zuchepharma.com/medical_devices/chlorhexidine-mouthwash/">Chlorhexidine Mouthwash</a></h5>
+<p><strong>Strength:</strong> Mouth Wash, Mouth Rinse<br />
+<strong>Pack size:</strong> Chlorhexidine Gluconate Mouth Wash is available in packed bottles in 150 ml and 300 ml fill volume.</p>
+                            </div>
+                            </div>
+                        </div>
+                        </div>
+                        </div>
+						                        </div>
+                      </div>
+                    </div>
+                                                        
+                  </div> 
+            </div>
+        </div>
+    </div>
+</div>
+
+</div><!-- .site-content -->
+<footer class="footer-image foot">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3 col-md-3">
+        <div class="footer-links">
+          <a href="https://zuchepharma.com/" class="custom-logo-link" rel="home"><img width="206" height="60" src="https://zuchepharma.com/wp-content/uploads/2017/05/logos.png" class="custom-logo" alt="Zuche Pharmaceuticals" /></a>          <ul>
+            <li><a href="https://zuchepharma.com/product-portfolio/pharmaceuticals/">Pharmaceuticals</a></li>
+            <li><a href="https://zuchepharma.com/product-portfolio/medical-devices/">Medical Devices</a></li>
+            <li><a href="https://zuchepharma.com/product-portfolio/nutraceuticals/">Nutraceuticals</a></li>	
+            <li><a href="https://zuchepharma.com/product-portfolio/herbal-products/">Herbal Products</a></li>
+            <li><a href="https://zuchepharma.com/product-portfolio/vetrinary-products/">Veterinary Products</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="footer-social">
+          <aside id="text-5" class="widget widget_text"><h3 class="widget-title">Follow Us</h3>			<div class="textwidget"><ul>
+						<li><a href="https://www.facebook.com/Zuche-Pharmaceuticals-PvtLtd-1572641042798080/" target="_blank" rel="noopener noreferrer"><img src="https://zuchepharma.com/wp-content/uploads/2017/02/facebook.png" >Facebook</a></li>
+<li><a href="https://twitter.com/ZuchePharma" " target="_blank"><img src="https://zuchepharma.com/wp-content/uploads/2017/02/twitter.png">Twitter</a></li>
+						<li><a href="https://www.linkedin.com/organization/13230292/admin/updates" " target="_blank"><img src="https://zuchepharma.com/wp-content/uploads/2017/02/linked.png">LinkedIn</a></li>
+					</ul></div>
+		</aside>        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <div class="footer-contact">
+          <aside id="text-2" class="widget widget_text"><h3 class="widget-title">Get in Touch</h3>			<div class="textwidget"><ul>
+<li><i class="fa fa-home" aria-hidden="true"></i>109, 1st floor, Oriental house 19-20, Community Centre Complex, Yusuf Sarai (Gulmohar park), New Delhi- 110049 India</li>
+<li><i class="fa fa-mobile" aria-hidden="true"></i><a href="tel:+919873582118">+91 987 358 2118</a></li>
+<li><i class="fa fa-phone" aria-hidden="true"></i><a href="tel:+911141662311">+91 11 416 62 311</a></li>
+<li><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:business@zuchepharma.com">business@zuchepharma.com</a></li>
+</ul></div>
+		</aside>        </div>
+      </div>
+      <div class="col-sm-3 col-md-3">
+        <aside id="text-3" class="widget widget_text">			<div class="textwidget"><div class="footer-map">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.407077219439!2d77.20767742681306!3d28.55753638838871!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce2098be0e3d1%3A0x535023f0c72db20e!2sZuche+Pharmaceuticals+Pvt.+Ltd.!5e0!3m2!1sen!2sin!4v1494396555336" width="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+				</div></div>
+		</aside>      </div>
+    </div>
+  </div>
+
+  <div class="bottom-border">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-12">
+          <div class="footer-bottom">
+            <p>Copyright © 2017 Zuche Pharmaceuticals. All Rights Reserved.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- .site-footer -->
+</div><!-- .site -->
+
+<script src="https://zuchepharma.com/wp-content/themes/zuchepharma/js/bootstrap.min.js"></script>
+<script src="https://zuchepharma.com/wp-content/themes/zuchepharma/js/jquery.flexslider.js"></script>
+<script src="https://zuchepharma.com/wp-content/themes/zuchepharma/js/owl.carousel.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		 $(window).scroll(function() {
+			if ($(this).scrollTop() > 100){  
+				$('header').addClass("sticky");
+			}
+			else{
+				$('header').removeClass("sticky");
+			}
+		});
+  });
+</script>
+<script>
+$(document).on("click", ".enqurybtn", function () {
+  var myBookId = $(this).data('id');
+  $("#myModal1 .modal-content #product-field").val( myBookId );
+});
+</script>
+<script type="text/javascript">
+  jQuery(window).load(function(){
+    jQuery('#carousel').flexslider({
+      animation: "slide",
+      controlNav: false,
+      animationLoop: false,
+      slideshow: false,
+      itemWidth: 85,
+      itemMargin: 4,
+      asNavFor: '#slider'
+    });
+
+    jQuery('#slider').flexslider({
+      animation: "slide",
+      controlNav: false,
+      animationLoop: false,
+      slideshow: false,
+      sync: "#carousel",
+      start: function(slider){
+      jQuery('body').removeClass('loading');
+      }
+    });
+  });
+</script>
+<script type="text/javascript">
+  function nocontext(e) {
+    var clickedTag = (e==null) ? event.srcElement.tagName : e.target.tagName;
+    if (clickedTag == "IMG")
+    return false;
+  }
+  document.oncontextmenu = nocontext;
+</script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $("#owl-demo").owlCarousel({
+        autoplay : 5000,
+        navigation : false, // Show next and prev buttons
+        slideSpeed : 300,
+        paginationSpeed : 400,
+        singleItem:true
+    });
+    
+  });
+</script>
+
+			<div class="wprm-wrapper">
+						
+							<div id="wprmenu_bar" class="wprmenu_bar  right">
+
+					<div class="hamburger hamburger--slider">
+  						<span class="hamburger-box">
+    						<span class="hamburger-inner"></span>
+  						</span>
+					</div>
+					<div class="menu_title">
+														MENU																		</div>
+				</div>
+			
+			<div class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right  " id="mg-wprm-wrap">
+				
+				
+				<ul id="wprmenu_menu_ul">
+					
+
+					
+
+					<li id="menu-item-1677" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-1677"><a href="https://zuchepharma.com/">Home</a></li>
+<li id="menu-item-1679" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1679"><a href="#.">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-1680" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1680"><a href="https://zuchepharma.com/about-us/#About">About Zuche</a></li>
+	<li id="menu-item-1681" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1681"><a href="https://zuchepharma.com/about-us/#vission">Mission &#038; Vision</a></li>
+	<li id="menu-item-1682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1682"><a href="https://zuchepharma.com/about-us/#director">Board of Directors</a></li>
+	<li id="menu-item-1683" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1683"><a href="https://zuchepharma.com/about-us/#team">Buisness Model</a></li>
+</ul>
+</li>
+<li id="menu-item-1684" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1684"><a href="https://zuchepharma.com/product-portfolio/pharmaceuticals/">Product Portfolio</a>
+<ul class="sub-menu">
+	<li id="menu-item-1715" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1715"><a href="https://zuchepharma.com/product-portfolio/pharmaceuticals/">Pharmaceuticals</a></li>
+	<li id="menu-item-1713" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-879 current_page_item menu-item-1713"><a href="https://zuchepharma.com/product-portfolio/medical-devices/" aria-current="page">Medical Devices</a></li>
+	<li id="menu-item-1714" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1714"><a href="https://zuchepharma.com/product-portfolio/nutraceuticals/">Nutraceuticals</a></li>
+	<li id="menu-item-1712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1712"><a href="https://zuchepharma.com/product-portfolio/herbal-products/">Herbal Products</a></li>
+	<li id="menu-item-1716" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1716"><a href="https://zuchepharma.com/product-portfolio/veterinary-products/">Veterinary Products</a></li>
+</ul>
+</li>
+<li id="menu-item-1690" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1690"><a href="#.">Quality</a>
+<ul class="sub-menu">
+	<li id="menu-item-1692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1692"><a href="https://zuchepharma.com/quality-policy/">Quality Policy</a></li>
+	<li id="menu-item-1691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1691"><a href="https://zuchepharma.com/quality-assurance/">Quality Assurance</a></li>
+	<li id="menu-item-1720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1720"><a href="https://zuchepharma.com/quality-assurance/#quality-control">Quality Control</a></li>
+	<li id="menu-item-1694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1694"><a href="https://zuchepharma.com/certificates-awards/">Certificates &#038; Awards</a></li>
+</ul>
+</li>
+<li id="menu-item-1695" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1695"><a href="#.">Career</a>
+<ul class="sub-menu">
+	<li id="menu-item-1696" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1696"><a href="https://zuchepharma.com/career/#Grow2">Growing  with Zuche</a></li>
+	<li id="menu-item-1697" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1697"><a href="https://zuchepharma.com/career/#culture">Culture</a></li>
+	<li id="menu-item-1698" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1698"><a href="https://zuchepharma.com/career/#value">Value &#038; Ethics</a></li>
+	<li id="menu-item-1700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1700"><a href="https://zuchepharma.com/openings/">Openings</a></li>
+	<li id="menu-item-1699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1699"><a href="https://zuchepharma.com/join-our-team/">Join Our Team</a></li>
+</ul>
+</li>
+<li id="menu-item-1703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1703"><a href="https://zuchepharma.com/worldwide/">WorldWide</a></li>
+<li id="menu-item-1701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1701"><a href="https://zuchepharma.com/blog/">Blog</a></li>
+<li id="menu-item-1702" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1702"><a href="https://zuchepharma.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-1704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1704"><a href="https://zuchepharma.com/celebration-zuche/">Media &#038; Gallery</a></li>
+<li id="menu-item-1705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1705"><a href="https://zuchepharma.com/download-catalog/">Download Catalog</a></li>
+															
+					
+					
+				</ul>
+
+								
+				</div>
+			</div>
+			<!--Embed from Zendesk Chat Chat Wordpress Plugin v1.4.15-->
+    <!--Start of Zopim Live Chat Script-->
+    <script type="text/javascript">
+    window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+    d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+      _.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute('charset','utf-8');
+      $.src='//v2.zopim.com/?4xbvTvuUdpuX9PTNi9KRaeFts7Mxfe8D';z.t=+new Date;$.
+      type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
+      </script><script>$zopim( function() {
+})</script><!--End of Zendesk Chat Script--><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/zuchepharma.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://zuchepharma.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3'></script>
+<script type='text/javascript' src='https://zuchepharma.com/wp-content/plugins/custom-banners/assets/js/jquery.cycle2.min.js?ver=5.2.14'></script>
+<script type='text/javascript' src='https://zuchepharma.com/wp-content/plugins/custom-banners/assets/js/custom-banners.js?ver=5.2.14'></script>
+<script type='text/javascript' src='https://zuchepharma.com/wp-content/plugins/mousewheel-smooth-scroll/js/SmoothScroll.min.js?ver=1.4.9.1'></script>
+<script type='text/javascript' src='https://zuchepharma.com/wp-content/plugins/mousewheel-smooth-scroll/js/wpmss.min.js?ver=1560358666'></script>
+<script type='text/javascript' src='https://zuchepharma.com/wp-includes/js/wp-embed.min.js?ver=5.2.14'></script>
+<script type='text/javascript' src='https://zuchepharma.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.0.2'></script>
+</body>
+</html>
